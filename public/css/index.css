@@ -51,7 +51,7 @@
     background-color: yellow;
 }
 
-.lesson-four-task-tweleve input:read-write {
+.lesson-four-task-twelve input:read-write {
     background-color: yellow;
 }
  
@@ -72,11 +72,11 @@
 }
 
 .lesson-four-task-sixteen input:out-of-range {
-    background-color: red;
+    color: red;
 }
 
 .lesson-four-task-seventeen input:in-range {
-    background-color: red;
+    color: red;
 }
 
 .lesson-four-task-eighteen input:focus {
